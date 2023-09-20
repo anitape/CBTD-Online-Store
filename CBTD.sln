@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CBTD", "CBTD\CBTD.csproj", "{EFEFD47B-FA02-4D07-BCFF-8F8C088BC800}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{C4A1AC31-D4FC-4371-85C7-9394009EF2BC}"
 	ProjectSection(ProjectDependencies) = postProject
 		{A7BEAC35-5F95-48AF-8C15-4C1249123670} = {A7BEAC35-5F95-48AF-8C15-4C1249123670}
@@ -20,10 +18,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EFEFD47B-FA02-4D07-BCFF-8F8C088BC800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFEFD47B-FA02-4D07-BCFF-8F8C088BC800}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFEFD47B-FA02-4D07-BCFF-8F8C088BC800}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFEFD47B-FA02-4D07-BCFF-8F8C088BC800}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C4A1AC31-D4FC-4371-85C7-9394009EF2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C4A1AC31-D4FC-4371-85C7-9394009EF2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4A1AC31-D4FC-4371-85C7-9394009EF2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
